@@ -22,11 +22,13 @@
 
 ### 🔨 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,numpy,pandas,excel,mysql,figma,pytorch,tensorflow,js,react,mongodb,gcp,github,vscode,tableau,powerbi)
+[![My Skills]((https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,nodejs,mongodb,gcp,github,vscode,figma,mysql,excel,pandas,numpy,powerbi,tableau))
 
-" />
+---
 
-Also skilled in:  
+### Also skilled in:  
+
+**Data Analytics**: Excel, SQL, Power BI, Pandas, NumPy  
 **Data Science**: Scikit-Learn, Matplotlib, Seaborn, Jupyter  
 **Cloud & DevOps**: GCP, GitHub Actions  
 
@@ -64,9 +66,5 @@ Also skilled in:
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhumithasri&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=I'm+Madhumitha+Sri+Murali.;AI+Engineer+in+the+making.;Coding+%E2%9D%A4%EF%B8%8F+Boxing+%E2%9C%8A+Creativity+%F0%9F%92%A1;Exciting+AI+project+coming+soon+..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=I'm+Maddy.;AI+Engineer+in+the+making.;Coding+%E2%9D%A4%EF%B8%8F+Boxing+%E2%9C%8A+Creativity+%F0%9F%92%A1;Exciting+AI+project+coming+soon+..." />
 </p>
