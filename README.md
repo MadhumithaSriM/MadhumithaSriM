@@ -46,16 +46,6 @@
 - GitHub Actions  
 
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhumithaSriM&show_icons=true&theme=default" alt="Madhumitha's GitHub stats" width="60%" />
-</p>
-
-
-
 
 ---
 ### ✍🏻 Featured In
