@@ -24,14 +24,28 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,nodejs,mongodb,gcp,github,vscode,figma,mysql,excel,pandas,numpy,powerbi,tableau)
 
+## 🚀 What I Play With
 
----
+### 📊 Data Analytics
+- Excel  
+- SQL  
+- Power BI  
+- Pandas  
+- NumPy  
 
-### Also skilled in:  
+### 🧠 Data Science
+- Scikit-Learn  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+- Classification, Regression, Clustering
 
-**Data Analytics**: Excel, SQL, Power BI, Pandas, NumPy  
-**Data Science**: Scikit-Learn, Matplotlib, Seaborn, Jupyter  
-**Cloud & DevOps**: GCP, GitHub Actions  
+
+
+### ☁️ Cloud & DevOps
+- Google Cloud Platform (GCP)  
+- GitHub Actions  
+
 
 ---
 
