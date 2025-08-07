@@ -20,9 +20,10 @@
 
 ---
 
-### 🔨 Tech Stack
+### 🧠 Tech Stack
 
-[![My Skills]((https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,nodejs,mongodb,gcp,github,vscode,figma,mysql,excel,pandas,numpy,powerbi,tableau))
+![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,nodejs,mongodb,gcp,github,vscode,figma,mysql,excel,pandas,numpy,powerbi,tableau)
+
 
 ---
 
