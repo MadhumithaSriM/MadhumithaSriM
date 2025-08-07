@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Woman coding GIF" width="100%"/>
+  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="380" alt="Woman Coding GIF" />
 </p>
+
+
 
 
 
