@@ -1,37 +1,71 @@
-# 👋 Hey there! I'm Maddy
+<h1 align="center">Hi there, I'm Maddy 👋</h1>
 
-I'm a passionate **AI Enthusiast** and **Engineer** with experience in Data Science, ML, and software development.  
-Currently exploring the cutting-edge of **Applied AI** and building something cool (👀 stay tuned).
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+</p>
 
----
-
-### 🧠 What I'm Doing Right Now:
-- 📊 Sharpening my skills for a **Data Analyst co-op** in Canada 🇨🇦  
-- 🤖 Building AI-driven solutions that matter  
-- 🚀 Constantly learning & contributing to open source  
-- 🛠️ Working on a top-secret AI side project — to be revealed soon!
+<p align="center">
+  <b>Engineer | AI Explorer | Fitness Enthusiast</b><br>
+  <i>Building smart tools that make life easier. Something exciting in AI is coming soon 🤫</i>
+</p>
 
 ---
 
-### 🥋 Beyond Tech:
-When I'm not coding, you’ll find me:
-- 🥊 Practicing **boxing**
-- 🥋 Into **Judo** and starting **Taekwondo**
-- 🏋️‍♀️ Doing **calisthenics** to stay strong and focused
+### 🧠 About Me
+
+- 🎓 Master of Engineering in ECE (Applied AI) @ University of Ottawa (Fall 2025)
+- 💼 Former Data Science Intern @ Tiger Analytics
+- 🧩 Currently researching Generative AI & AI Automation
+- 🥋 Apart from coding, I’m a boxer, love judo, and getting into taekwondo and calisthenics
 
 ---
 
-### 🔗 Let's Connect
+### 🔨 Tech Stack
 
-📫 Reach out to me: [madhumithasri333@gmail.com](mailto:madhumithasri333@gmail.com)  
-💼 Connect on LinkedIn: [linkedin.com/in/madhumitha-sri-m-9b0111210](https://www.linkedin.com/in/madhumitha-sri-m-9b0111210/)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,nodejs,mongodb,github,gcp,vscode)](https://skillicons.dev)
 
----
-
-### 📌 Fun Stuff
-
-![AI](https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif)  
-*Building smart systems, one model at a time*
+Also skilled in:  
+**Data Analytics**: Excel, SQL, Power BI, Pandas, NumPy  
+**Data Science**: Scikit-Learn, Matplotlib, Seaborn, Jupyter  
+**Cloud & DevOps**: GCP, GitHub Actions  
 
 ---
 
+### ✍🏻 Featured In
+
+- 🏆 Google Cloud Hackathon – 1st Place (Serverless ML)
+- 🌟 Smart India Hackathon –  Finalist
+- 🧠 IEEE Yesist12 – Finalist for SDG "Zero Hunger"
+- 🎓 Aspire Harvard Program Participant
+
+---
+
+### 🚀 Fun Facts About Me
+
+- 💡 I'm currently building something exciting in AI 🤖
+- 💥 I like martial arts more than weekends!
+- 🛫 Heading to Ottawa 🇨🇦 this Fall
+- 🧘‍♀️ Always balancing mind and body: AI + calisthenics!
+
+---
+
+### 📬 Reach Out to Me
+
+<p align="left">
+  <a href="mailto:madhumithasri333@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/madhumitha-sri-m-9b0111210/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhumithasri&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=I'm+Madhumitha+Sri+Murali.;AI+Engineer+in+the+making.;Coding+%E2%9D%A4%EF%B8%8F+Boxing+%E2%9C%8A+Creativity+%F0%9F%92%A1;Exciting+AI+project+coming+soon+..." />
+</p>
