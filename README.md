@@ -41,7 +41,6 @@
 - Classification, Regression, Clustering
 
 
-
 ### ☁️ Cloud & DevOps
 - Google Cloud Platform (GCP)  
 - GitHub Actions  
@@ -49,6 +48,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadhumithaSriM&show_icons=true&theme=default" alt="Madhumitha's GitHub stats" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MadhumithaSriM&theme=default&hide_border=false" alt="GitHub Streak" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhumithaSriM&layout=compact&theme=default" alt="Top Languages" width="45%" />
+</p>
+
+
+---
 ### ✍🏻 Featured In
 
 - 🏆 Google Cloud Hackathon – 1st Place (Serverless ML)
