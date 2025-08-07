@@ -44,7 +44,13 @@
 ### ☁️ Cloud & DevOps
 - Google Cloud Platform (GCP)  
 - GitHub Actions  
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/MadhumithaSriM/MadhumithaSriM/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 
 ---
