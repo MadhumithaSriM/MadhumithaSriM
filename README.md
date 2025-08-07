@@ -6,15 +6,15 @@
 
 <p align="center">
   <b>Engineer | AI Explorer | Fitness Enthusiast</b><br>
-  <i>Building smart tools that make life easier. Something exciting in AI is coming soon 🤫</i>
+  <i>Building smart tools that make life easier. Something exciting is coming soon 🤫</i>
 </p>
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 - 🎓 Master of Engineering in ECE (Applied AI) @ University of Ottawa (Fall 2025)
-- 💼 Former Data Science Intern @ Tiger Analytics
+- 💼 Former Intern @ Tiger Analytics
 - 🧩 Currently researching Generative AI & AI Automation
 - 🥋 Apart from coding, I’m a boxer, love judo, and getting into taekwondo and calisthenics
 
@@ -22,10 +22,11 @@
 
 ### 🔨 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,nodejs,mongodb,github,gcp,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,numpy,pandas,excel,mysql,figma,pytorch,tensorflow,js,react,mongodb,gcp,github,vscode,tableau,powerbi)
+
+" />
 
 Also skilled in:  
-**Data Analytics**: Excel, SQL, Power BI, Pandas, NumPy  
 **Data Science**: Scikit-Learn, Matplotlib, Seaborn, Jupyter  
 **Cloud & DevOps**: GCP, GitHub Actions  
 
