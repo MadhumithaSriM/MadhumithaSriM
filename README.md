@@ -12,7 +12,7 @@
 ---
 
 ###  About Me
-
+- 🔥 I do code, lift, and fight
 - 🎓 Master of Engineering in ECE (Applied AI) @ University of Ottawa (Fall 2025)
 - 💼 Former Intern @ Tiger Analytics
 - 🧩 Currently researching Generative AI & AI Automation
