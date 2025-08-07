@@ -1,36 +1,37 @@
-<h1 align="center">Hi 👋, I'm Maddy</h1>
-<h3 align="center"> Data Analyst | AI Enthusiast | Builder @ InsightIQ</h3>
+# 👋 Hey there! I'm Maddy
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" align="right" />
-
-- 🔭 I’m currently working on **InsightIQ — an AI analytics platform for SMBs**
-- 🌱 I’m learning **Data Analytics, AI Automation & Financial Literacy**
-- 👯 I’m looking to collaborate on **cool AI tools and data projects**
-- 💬 Ask me about **Python, GCP, ML, Resume Building**
-- 📫 Reach me at: `madhumithasri333@gmail.com`
-- 🧠 Fun fact: I’m always experimenting with bots and Notion templates!
+I'm a passionate **AI Enthusiast** and **Engineer** with experience in Data Science, ML, and software development.  
+Currently exploring the cutting-edge of **Applied AI** and building something cool (👀 stay tuned).
 
 ---
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🧠 What I'm Doing Right Now:
+- 📊 Sharpening my skills for a **Data Analyst co-op** in Canada 🇨🇦  
+- 🤖 Building AI-driven solutions that matter  
+- 🚀 Constantly learning & contributing to open source  
+- 🛠️ Working on a top-secret AI side project — to be revealed soon!
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=madhumithasri&theme=radical" alt="streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=madhumithasri&show_icons=true&theme=radical"/>
-</p>
+### 🥋 Beyond Tech:
+When I'm not coding, you’ll find me:
+- 🥊 Practicing **boxing**
+- 🥋 Into **Judo** and starting **Taekwondo**
+- 🏋️‍♀️ Doing **calisthenics** to stay strong and focused
 
 ---
 
-### 🔗 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/madhumitha-sri-m-9b0111210/)
-- ✉️ `madhumithasri333@gmail.com`
+### 🔗 Let's Connect
+
+📫 Reach out to me: [madhumithasri333@gmail.com](mailto:madhumithasri333@gmail.com)  
+💼 Connect on LinkedIn: [linkedin.com/in/madhumitha-sri-m-9b0111210](https://www.linkedin.com/in/madhumitha-sri-m-9b0111210/)
+
+---
+
+### 📌 Fun Stuff
+
+![AI](https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif)  
+*Building smart systems, one model at a time*
+
+---
 
