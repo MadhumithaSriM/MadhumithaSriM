@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="380" alt="Woman Coding GIF" />
-</p>
-
-
-
-
-
-
 <h1 align="center">Hi there, I'm Maddy <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 </p></h1>
