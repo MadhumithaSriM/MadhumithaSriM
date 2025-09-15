@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Engineer | AI Explorer | Fitness Enthusiast</b><br>
-  <i>Building smart tools that make life easier. Something exciting is coming soon 🤫</i>
+  <i>Building smart tools that make life easier.</i>
 </p>
 
 ---
