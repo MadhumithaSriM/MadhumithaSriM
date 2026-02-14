@@ -12,11 +12,11 @@
 ---
 
 ###  About Me
-- 🔥 I do code, lift, and fight
-- 🎓 Master of Engineering in ECE (Applied AI) @ University of Ottawa (Fall 2025)
+- 🔥 I do code, lift, and Play
+- 🎓 Master of Engineering in ECE (Applied AI) @ University of Ottawa (Fall 2025 - Summer 2027)
 - 💼 Former Intern @ Tiger Analytics
 - 🧩 Currently researching Generative AI & AI Automation
-- 🥋 Apart from coding, I’m a boxer, love judo, and getting into taekwondo and calisthenics
+- 🥋 Apart from coding, I’m a boxer, love gaming, and getting into taekwondo and calisthenics
 
 ---
 
